@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos locos
+* Creado por el increíble goocube
 
 Y como recordatorio: **Este readme.md es un chiste**
