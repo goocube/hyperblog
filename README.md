@@ -10,5 +10,6 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas prácticas
 * Trucos locos
 * Creado por el increíble goocube
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como recordatorio: **Este readme.md es un chiste**
