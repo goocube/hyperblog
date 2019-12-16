@@ -11,5 +11,6 @@ En este curso vemos de todo:
 * Trucos locos
 * Creado por el increíble goocube
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y como recordatorio: **Este readme.md es un chiste**
